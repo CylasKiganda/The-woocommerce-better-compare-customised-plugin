@@ -1,0 +1,1121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Better Compare\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-20 07:32+0000\n"
+"PO-Revision-Date: 2022-01-04 21:48+0000\n"
+"Last-Translator: WeLaunch\n"
+"Language-Team: Slovak\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#: public/class-woocommerce-better-compare-public.php:1721
+#, php-format
+msgid "%d products found!"
+msgstr "Našlo sa %d produktov!"
+
+#: public/class-woocommerce-better-compare-my-lists.php:175
+msgid "Action"
+msgstr "Akcia"
+
+#: admin/options-init.php:1473
+msgid "Add some javascript if you want."
+msgstr "Ak chcete, pridajte nejaký javascript."
+
+#: admin/options-init.php:1466
+msgid "Add some stylesheet if you want."
+msgstr "Ak chcete, pridajte niektorý štýl."
+
+#: admin/options-init.php:129
+msgid "Add to Cart"
+msgstr "Pridať do košíka"
+
+#: admin/options-init.php:172
+msgid "Add to Compare"
+msgstr "Pridať k porovnaniu"
+
+#: admin/options-init.php:170
+msgid "Add to Compare Text"
+msgstr "Pridať do porovnávacieho textu"
+
+#: admin/options-init.php:1436
+msgid "Advanced settings"
+msgstr "Pokročilé nastavenia"
+
+#: admin/options-init.php:715 admin/options-init.php:776
+msgid "After Main Product"
+msgstr "Po hlavnom produkte"
+
+#: admin/options-init.php:712 admin/options-init.php:773
+msgid "After Meta Information"
+msgstr "Po informáciách Meta"
+
+#: admin/options-init.php:714 admin/options-init.php:775
+msgid "After Single Product"
+msgstr "Po jednom výrobku"
+
+#: admin/options-init.php:713 admin/options-init.php:774
+msgid "After Single Product Summary"
+msgstr "Po jednom súhrne produktov"
+
+#: admin/options-init.php:270
+msgid "after_shop_loop_item"
+msgstr "after_shop_loop_item"
+
+#: admin/options-init.php:269
+msgid "after_shop_loop_item_title"
+msgstr "after_shop_loop_item_title"
+
+#: admin/options-init.php:653
+msgid "Always show all Slides"
+msgstr "Vždy zobraziť všetky snímky"
+
+#: admin/options-init.php:297
+msgid ""
+"As an alternative you can hide the compare bar and just use the sidebar "
+"widget."
+msgstr ""
+"Ako alternatívu môžete skryť porovnávaciu lištu a stačí použiť widget "
+"bočného panela."
+
+#: admin/options-init.php:880
+msgid "Background Color of the compare bar"
+msgstr "Farba pozadia porovnávacej lišty"
+
+#: admin/options-init.php:924
+msgid "Background Color of the compare Table"
+msgstr "Farba pozadia porovnávacej tabuľky"
+
+#: admin/options-init.php:711 admin/options-init.php:772
+msgid "Before Meta Information"
+msgstr "Pred informáciami Meta"
+
+#: admin/options-init.php:708 admin/options-init.php:769
+msgid "Before Single Product"
+msgstr "Pred jedným produktom"
+
+#: admin/options-init.php:709 admin/options-init.php:770
+msgid "Before Single Product Summary"
+msgstr "Pred zhrnutím jedného produktu"
+
+#: admin/options-init.php:266
+msgid "before_shop_loop_item"
+msgstr "before_shop_loop_item"
+
+#: admin/options-init.php:267
+msgid "before_shop_loop_item_title"
+msgstr "before_shop_loop_item_title"
+
+#: admin/options-init.php:332
+msgid "Bottom"
+msgstr "dno"
+
+#: admin/options-init.php:128
+#: public/class-woocommerce-better-compare-public.php:1309
+msgid "Categories"
+msgstr "Kategórie"
+
+#: admin/options-init.php:212
+msgid "Category Restriction"
+msgstr "Obmedzenie kategórie"
+
+#: admin/options-init.php:220
+msgid "Category Restriction Yoast Primary"
+msgstr "Kategória Obmedzenie Yoast Primary"
+
+#: admin/options-init.php:1458
+msgid "Check this to stop adding query parameters to URLs."
+msgstr ""
+"Začiarknutím tohto políčka zastavíte pridávanie parametrov dopytu do adries "
+"URL."
+
+#: admin/options-init.php:1137 admin/options-init.php:1138
+msgid "Clear All"
+msgstr "Zmazať všetko"
+
+#: admin/options-init.php:288
+msgid "Compare Bar & Table"
+msgstr "Porovnajte bar a stôl"
+
+#: admin/options-init.php:879
+msgid "Compare Bar Background Color"
+msgstr "Porovnať farbu pozadia na lište"
+
+#: admin/options-init.php:366
+msgid "Compare Bar Height"
+msgstr "Porovnať výšku stĺpika"
+
+#: admin/options-init.php:386
+msgid "Compare Bar Item Height"
+msgstr "Porovnanie výšky položky položky"
+
+#: admin/options-init.php:376
+msgid "Compare Bar Item Width"
+msgstr "Porovnať šírku položky šablóny"
+
+#: admin/options-init.php:310
+msgid "Compare Bar Layout"
+msgstr "Porovnať rozloženie panelov"
+
+#: admin/options-init.php:329
+msgid "Compare Bar Position"
+msgstr "Porovnajte polohu pozície"
+
+#: admin/options-init.php:863
+msgid "Compare Bar Styles"
+msgstr "Porovnanie štýlov barov"
+
+#: admin/options-init.php:871
+msgid "Compare Bar Text Color"
+msgstr "Porovnať farbu textu na lište"
+
+#: admin/options-init.php:304
+msgid "Compare bar will only show on product / category pages.."
+msgstr "Panel porovnania sa zobrazí iba na stránkach produktov / kategórií."
+
+#: admin/options-init.php:1131 admin/options-init.php:1132
+msgid "Compare Now"
+msgstr "Porovnajte teraz"
+
+#: admin/options-init.php:148 admin/options-init.php:1143
+#: admin/options-init.php:1144
+msgid "Compare Products"
+msgstr "Porovnanie produktov"
+
+#: admin/options-init.php:923
+msgid "Compare Table Background Color"
+msgstr "Porovnať farbu pozadia tabuľky"
+
+#: admin/options-init.php:976 admin/options-init.php:1070
+msgid "Compare Table Even Background Color"
+msgstr "Porovnať tabuľku Rovnaké farby pozadia"
+
+#: admin/options-init.php:1003 admin/options-init.php:1096
+msgid "Compare Table Highlight Background Color"
+msgstr "Porovnanie tabuľky zvýraznite farbu pozadia"
+
+#: admin/options-init.php:950 admin/options-init.php:1044
+msgid "Compare Table Odd Background Color"
+msgstr "Porovnanie nestravej farby pozadia tabuľky"
+
+#: admin/options-init.php:907
+msgid "Compare Table Styles"
+msgstr "Porovnať Styly tabuľky"
+
+#: admin/options-init.php:915 admin/options-init.php:1037
+msgid "Compare Table Text Color"
+msgstr "Porovnať farbu textu tabuľky"
+
+#: public/class-woocommerce-better-compare-public.php:844
+#: public/class-woocommerce-better-compare-public.php:1302
+msgid "Compare with"
+msgstr "Porovnať s"
+
+#: admin/options-init.php:1167
+msgid "Comparison Saved"
+msgstr "Porovnanie bolo uložené"
+
+#: admin/options-init.php:1168
+msgid "Comparison saved!"
+msgstr "Porovnanie uložené!"
+
+#: admin/options-init.php:1215
+msgid "Comparisons"
+msgstr "Porovnania"
+
+#: admin/options-init.php:1465
+msgid "Custom CSS"
+msgstr "Vlastné CSS"
+
+#: admin/options-init.php:1472
+msgid "Custom JS"
+msgstr "Vlastné JS"
+
+#: admin/options-init.php:565
+msgid "Custom Meta 1"
+msgstr "Vlastné meta 1"
+
+#: admin/options-init.php:558
+msgid "Custom Meta 1 Name"
+msgstr "Vlastný názov meta 1"
+
+#: admin/options-init.php:579
+msgid "Custom Meta 2"
+msgstr "Vlastné meta 2"
+
+#: admin/options-init.php:572
+msgid "Custom Meta 2 Name"
+msgstr "Vlastný názov meta 2"
+
+#: admin/options-init.php:593
+msgid "Custom Meta 3"
+msgstr "Vlastné meta 3"
+
+#: admin/options-init.php:586
+msgid "Custom Meta 3 Name"
+msgstr "Vlastný názov meta 3"
+
+#: admin/options-init.php:607
+msgid "Custom Meta 4"
+msgstr "Vlastné meta 4"
+
+#: admin/options-init.php:600
+msgid "Custom Meta 4 Name"
+msgstr "Vlastný názov meta 4"
+
+#: admin/options-init.php:551
+msgid "Custom Post Metas"
+msgstr "Metas vlastných príspevkov"
+
+#: admin/options-init.php:1437
+msgid "Custom stylesheet / javascript."
+msgstr "Vlastný štýl / javascript."
+
+#: admin/options-init.php:464
+msgid "Custom Taxonomies"
+msgstr "Vlastné taxonómie"
+
+#: admin/options-init.php:478
+msgid "Custom Taxonomy 1"
+msgstr "Vlastná taxonómia 1"
+
+#: admin/options-init.php:471
+msgid "Custom Taxonomy 1 Name"
+msgstr "Vlastná taxonómia 1 Názov"
+
+#: admin/options-init.php:498
+msgid "Custom Taxonomy 2"
+msgstr "Vlastná taxonómia 2"
+
+#: admin/options-init.php:491
+msgid "Custom Taxonomy 2 Name"
+msgstr "Vlastná taxonómia 2 Názov"
+
+#: admin/options-init.php:518
+msgid "Custom Taxonomy 3"
+msgstr "Vlastná taxonómia 3"
+
+#: admin/options-init.php:511
+msgid "Custom Taxonomy 3 Name"
+msgstr "Vlastná taxonómia 3 Názov"
+
+#: admin/options-init.php:538
+msgid "Custom Taxonomy 4"
+msgstr "Vlastná taxonómia 4"
+
+#: admin/options-init.php:531
+msgid "Custom Taxonomy 4 Name"
+msgstr "Vlastná taxonómia 4 Názov"
+
+#: admin/options-init.php:406
+msgid "Data to Compare"
+msgstr "Dáta na porovnanie"
+
+#: public/templates/woocommerce-my-comparisons-single.php:20
+msgid "Delete"
+msgstr "Odstrániť"
+
+#: public/templates/woocommerce-my-comparison.php:25
+#: public/templates/woocommerce-my-comparisons.php:25
+msgid "Delete Wishlist"
+msgstr "Odstrániť zoznam želaní"
+
+#: admin/options-init.php:124 admin/options-init.php:757
+#: public/class-woocommerce-better-compare-public.php:1304
+msgid "Description"
+msgstr "popis"
+
+#: admin/options-init.php:87
+#: public/class-woocommerce-better-compare-public.php:1305
+msgid "Dimensions"
+msgstr "Rozmery"
+
+#: admin/options-init.php:1457
+msgid "Disable Replace State"
+msgstr "Zakázať Nahradiť stav"
+
+#: admin/options-init.php:1319
+msgid "Disable that when you use woodmart theme or see 2 logout menu items."
+msgstr ""
+"Zakážte to, keď používate tému woodmart alebo uvidíte 2 položky ponuky "
+"odhlásenia."
+
+#: admin/options-init.php:697
+msgid "Display Compare Button on Product Page"
+msgstr "Zobraziť tlačidlo porovnania na stránke výrobku"
+
+#: admin/options-init.php:742
+msgid "Display Compare Table on Product Page"
+msgstr "Zobrazte porovnávaciu tabuľku na stránke produktu"
+
+#: admin/options-init.php:1451
+msgid "Do Not Load Font Awesome 5"
+msgstr "Nenačítavať písmo úžasné 5"
+
+#: admin/options-init.php:444
+msgid "Each product title is linked to the product page."
+msgstr "Každý názov produktu je prepojený so stránkou produktu."
+
+#: public/templates/woocommerce-my-comparisons-single.php:19
+msgid "Edit"
+msgstr "Upraviť"
+
+#: public/templates/woocommerce-my-comparison.php:24
+#: public/templates/woocommerce-my-comparisons.php:24
+msgid "Edit Wishlist"
+msgstr "Upraviť zoznam želaní"
+
+#: admin/options-init.php:163
+msgid "Enable"
+msgstr "umožniť"
+
+#: admin/options-init.php:184
+msgid "Enable Attribute Group Compatibility"
+msgstr "Povoliť kompatibilitu skupiny atribútov"
+
+#: admin/options-init.php:205
+msgid "Enable Category Restriction"
+msgstr "Povoliť obmedzenie kategórie"
+
+#: admin/options-init.php:164
+msgid "Enable Compare Products."
+msgstr "Povoliť porovnanie produktov."
+
+#: admin/options-init.php:1206
+msgid "Enable My Comparisons Page"
+msgstr "Povoliť stránku Moje porovnania"
+
+#: admin/options-init.php:86
+#: public/class-woocommerce-better-compare-public.php:1303
+msgid "Excerpt"
+msgstr "výňatok"
+
+#: admin/options-init.php:1408
+msgid "Exclude Product Categories"
+msgstr "Vylúčiť kategórie produktov"
+
+#: admin/options-init.php:1423
+msgid "Exclude Products created by one of the following users."
+msgstr "Vylúčiť produkty vytvorené jedným z nasledujúcich používateľov."
+
+#: admin/options-init.php:1422
+msgid "Exclude User Products"
+msgstr "Vylúčiť používateľské produkty"
+
+#: admin/options-init.php:1396
+msgid "Exclusions"
+msgstr "Výluky"
+
+#: admin/options-init.php:777
+msgid "flatsome_custom_single_product_1"
+msgstr "flatsome_custom_single_product_1"
+
+#: admin/options-init.php:1199
+msgid ""
+"For My Account – After saving this, please go to WooCommerce > Advanced and "
+"save my account enpoints."
+msgstr ""
+"Pre môj účet – Po uložení prejdite na WooCommerce > Rozšírené a uložte body "
+"môjho účtu."
+
+#: admin/options-init.php:155
+msgid "General"
+msgstr "všeobecný"
+
+#: admin/options-init.php:191
+msgid "Get Attributes automatically from a Group"
+msgstr "Získajte atribúty automaticky zo skupiny"
+
+#: admin/options-init.php:323
+msgid "Gives more Space in the compare bar."
+msgstr "Poskytuje viac priestoru v porovnávacom paneli."
+
+#: admin/options-init.php:114
+msgid "Group:"
+msgstr "Skupina:"
+
+#: admin/options-init.php:322
+msgid "Hide Placeholder Images"
+msgstr "Skryť zástupné obrázky"
+
+#: admin/options-init.php:350 admin/options-init.php:630
+#: public/class-woocommerce-better-compare-public.php:665
+#: public/class-woocommerce-better-compare-public.php:860
+msgid "Hide Similarities"
+msgstr "Skryť podobnosti"
+
+#: admin/options-init.php:358 admin/options-init.php:637
+#: public/class-woocommerce-better-compare-public.php:666
+#: public/class-woocommerce-better-compare-public.php:861
+msgid "Highlight Differences"
+msgstr "Zvýrazniť rozdiely"
+
+#: admin/options-init.php:277 admin/options-init.php:732
+#: admin/options-init.php:785
+msgid "Hook Priority"
+msgstr "Priorita háku"
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr "https://welaunch.io"
+
+#. URI of the plugin
+msgid "https://welaunch.io/plugins/woocommerce-better-compare/"
+msgstr "https://welaunch.io/plugins/woocommerce-better-compare/"
+
+#: admin/options-init.php:451 admin/options-init.php:458
+msgid "If not enabled they will be executed."
+msgstr "Ak nie sú povolené, vykonajú sa."
+
+#: admin/options-init.php:724
+msgid ""
+"If you do not want to use the compare bar / fly out table, you can set a "
+"link to your compare page here. Make sure you place the "
+"[woocommerce_better_compare] shortcode on this page (without any parameters)."
+msgstr ""
+"Ak nechcete použiť porovnávaciu lištu / rozletovú tabuľku, môžete tu "
+"nastaviť odkaz na vašu porovnávaciu stránku. Uistite sa, že ste na túto "
+"stránku umiestnili skrátený kód [woocommerce_better_compare] (bez "
+"akýchkoľvek parametrov)."
+
+#: admin/options-init.php:397
+msgid ""
+"If you do not want to use the fly out compare table, you can set a link to "
+"your compare page here. Make sure you place the [woocommerce_better_compare] "
+"shortcode on this page (without any parameters). . Do NOT cache this page."
+msgstr ""
+"Ak nechcete použiť tabuľku na porovnanie, môžete si tu nastaviť odkaz na "
+"svoju porovnávaciu stránku. Uistite sa, že ste na túto stránku umiestnili "
+"skrátený kód [woocommerce_better_compare] (bez akýchkoľvek parametrov). . "
+"NEUKLADAJTE túto stránku do vyrovnávacej pamäte."
+
+#: admin/options-init.php:552
+msgid ""
+"If you have dragged custom post metas into the enabled data above you need "
+"to set its data here."
+msgstr ""
+"Ak ste presunuli vlastné meta meta príspevku do povolených údajov vyššie, "
+"musíte tu nastaviť ich údaje."
+
+#: admin/options-init.php:465
+msgid ""
+"If you have dragged taxonomies into the enabled data above you need to set "
+"its data here."
+msgstr ""
+"Ak ste taxonómie presunuli do povolených údajov vyššie, musíte tu nastaviť "
+"ich údaje."
+
+#: admin/options-init.php:81
+msgid "Image"
+msgstr "obraz"
+
+#: admin/options-init.php:343
+msgid "Image Size"
+msgstr "Veľkosť obrazu"
+
+#: admin/options-init.php:429
+msgid "Image Size (Compare Table)"
+msgstr "Veľkosť obrázka (porovnávacia tabuľka)"
+
+#: admin/options-init.php:710 admin/options-init.php:771
+msgid "In Single Product Summary"
+msgstr "V jednom súhrne produktov"
+
+#: admin/options-init.php:1415 admin/options-init.php:1430
+msgid "Instead of exclusion it will include."
+msgstr "Namiesto vylúčenia bude zahŕňať."
+
+#: admin/options-init.php:624 admin/options-init.php:796
+msgid ""
+"Instead of showing the attr name above the value it will be shown in first "
+"column."
+msgstr "Namiesto zobrazenia názvu attr nad hodnotou sa zobrazí v prvom stĺpci."
+
+#: admin/options-init.php:1221
+msgid "Intro Text"
+msgstr "Úvodný text"
+
+#: admin/options-init.php:313
+msgid "Layout 1"
+msgstr "Rozloženie 1"
+
+#: admin/options-init.php:314
+msgid "Layout 2"
+msgstr "Rozloženie 2"
+
+#: admin/options-init.php:311
+msgid "Layout of the compare bar"
+msgstr "Rozloženie porovnávacej lišty"
+
+#. Description of the plugin
+msgid "Let your users compare products with ease"
+msgstr "Nechajte svojich používateľov ľahko porovnávať produkty"
+
+#: admin/options-init.php:1328
+msgid "Make compare lists shareable."
+msgstr "Umožnite zdieľanie porovnávacích zoznamov."
+
+#: admin/options-init.php:681 admin/options-init.php:847
+msgid "Make it Infinite"
+msgstr "Urobte to nekonečne"
+
+#: admin/options-init.php:1249 admin/options-init.php:1350
+msgid ""
+"Make sure you place the [woocommerce_better_compare] shortcode on this page "
+"(without any parameters) to dynamically render the compare table. Do NOT "
+"cache this page."
+msgstr ""
+"Uistite sa, že ste na túto stránku umiestnili krátky kód "
+"[woocommerce_better_compare] (bez akýchkoľvek parametrov), aby sa "
+"porovnávacia tabuľka dynamicky vykresľovala. NEUKLADAJTE túto stránku do "
+"vyrovnávacej pamäte."
+
+#: public/class-woocommerce-better-compare-public.php:1321
+msgid "Max products reached"
+msgstr "Dosiahli sme maximálne produkty"
+
+#: admin/options-init.php:236
+msgid "Max products to Compare (Desktop)"
+msgstr "Maximálny počet produktov na porovnanie (počítač)"
+
+#: admin/options-init.php:245
+msgid "Max products to Compare (Mobile)"
+msgstr "Maximálny počet produktov na porovnanie (mobil)"
+
+#: admin/options-init.php:803
+msgid "Max Products to show"
+msgstr "Max. Produkty na zobrazenie"
+
+#: admin/options-init.php:1213
+msgid "Menu Title"
+msgstr "Názov menu"
+
+#: admin/options-init.php:134
+msgid "Meta Field 1"
+msgstr "Meta pole 1"
+
+#: admin/options-init.php:135
+msgid "Meta Field 2"
+msgstr "Meta pole 2"
+
+#: admin/options-init.php:136
+msgid "Meta Field 3"
+msgstr "Meta pole 3"
+
+#: admin/options-init.php:137
+msgid "Meta Field 4"
+msgstr "Meta pole 4"
+
+#: admin/options-init.php:1318
+msgid "Move Logout to last position"
+msgstr "Presuňte Odhlásenie na poslednú pozíciu"
+
+#: admin/options-init.php:1214
+msgid "My Compare Lists"
+msgstr "Moje porovnávacie zoznamy"
+
+#: admin/options-init.php:1198
+msgid "My Comparisons"
+msgstr "Moje prirovnania"
+
+#: public/class-woocommerce-better-compare-my-lists.php:174
+msgid "Name"
+msgstr "názov"
+
+#: admin/options-init.php:150
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "Potrebujete podporu? Použite funkciu komentára na kodeku."
+
+#: public/class-woocommerce-better-compare-my-lists.php:195
+#: public/class-woocommerce-better-compare-my-comparisons.php:190
+msgid "No Compare page set or no comparisons saved yet."
+msgstr ""
+"Žiadna sada stránok Porovnania alebo ešte neboli uložené žiadne porovnania."
+
+#: public/class-woocommerce-better-compare-public.php:1688
+#: public/class-woocommerce-better-compare-public.php:1835
+msgid "No Product found ..."
+msgstr "Nebol nájdený žiadny produkt..."
+
+#: admin/options-init.php:1233
+msgid "No products added so far."
+msgstr "Zatiaľ neboli pridané žiadne produkty."
+
+#: public/class-woocommerce-better-compare-public.php:529
+msgid "No Products defined."
+msgstr "Nie sú definované žiadne produkty."
+
+#: admin/options-init.php:1231
+msgid "No Products Text"
+msgstr "Žiadny text produktov"
+
+#: admin/options-init.php:265
+msgid "None (Custom Integration)"
+msgstr "Žiadne (vlastná integrácia)"
+
+#: admin/options-init.php:254
+msgid "Not Available Text"
+msgstr "Text nie je k dispozícii"
+
+#: admin/options-init.php:1238
+msgid "Outro Text"
+msgstr "Záverečný text"
+
+#: admin/options-init.php:1162
+msgid "Please enter a comparison name!"
+msgstr "Zadajte názov porovnania!"
+
+#: admin/options-init.php:765
+msgid "Position"
+msgstr "pozície"
+
+#: admin/options-init.php:330
+msgid "Position of the compare bar"
+msgstr "Poloha porovnávacej lišty"
+
+#: admin/options-init.php:84
+#: public/class-woocommerce-better-compare-public.php:1300
+msgid "Price"
+msgstr "cena"
+
+#: admin/options-init.php:206
+msgid "Product can only be compared if they are in the same category."
+msgstr "Produkt je možné porovnávať len vtedy, ak je v rovnakej kategórii."
+
+#: admin/options-init.php:221
+msgid ""
+"Product can only be compared when they have the same Yoast Primary category. "
+"When disabled it will be subcategory based."
+msgstr ""
+"Produkt je možné porovnávať iba vtedy, ak majú rovnakú kategóriu Yoast "
+"Primary. Keď je zakázaná, bude založená na podkategórii."
+
+#: public/class-woocommerce-better-compare-public.php:1705
+#: public/class-woocommerce-better-compare-public.php:1713
+msgid "Product found!"
+msgstr "Produkt sa našiel!"
+
+#: admin/options-init.php:89
+#: public/class-woocommerce-better-compare-public.php:1207
+msgid "Read More"
+msgstr "Čítaj viac"
+
+#: admin/options-init.php:156
+msgid "register your License here."
+msgstr "zaregistrujte svoju licenciu tu."
+
+#: admin/options-init.php:179
+msgid "Remove from Compare"
+msgstr "Odstrániť zo služby Porovnať"
+
+#: admin/options-init.php:177
+msgid "Remove from Compare Text"
+msgstr "Odstrániť z Porovnať text"
+
+#: admin/options-init.php:485
+msgid "Remove Links 1"
+msgstr "Odstrániť odkazy 1"
+
+#: admin/options-init.php:505
+msgid "Remove Links 2"
+msgstr "Odstrániť odkazy 2"
+
+#: admin/options-init.php:525
+msgid "Remove Links 3"
+msgstr "Odstrániť odkazy 3"
+
+#: admin/options-init.php:545
+msgid "Remove Links 4"
+msgstr "Odstrániť odkazy 4"
+
+#: admin/options-init.php:198
+msgid "Reset Counts after Group"
+msgstr "Vynulovať počty po skupine"
+
+#: admin/options-init.php:1414
+msgid "Revert Categories Exclusion"
+msgstr "Vrátiť vylúčenie kategórií"
+
+#: admin/options-init.php:1429
+msgid "Revert User Products Exclusion"
+msgstr "Vrátiť späť vylúčenie používateľských produktov"
+
+#: admin/options-init.php:83
+#: public/class-woocommerce-better-compare-public.php:1298
+msgid "Reviews"
+msgstr "recenzia"
+
+#: admin/options-init.php:1156
+msgid "Save"
+msgstr "Uložiť"
+
+#: admin/options-init.php:1155
+msgid "Save Comparison"
+msgstr "Uložiť porovnanie"
+
+#: admin/options-init.php:1161
+msgid "Save Comparison Prompt"
+msgstr "Výzva na uloženie porovnania"
+
+#: admin/options-init.php:123
+msgid "Search Autocomplete"
+msgstr "Automatické dopĺňanie vyhľadávania"
+
+#: public/class-woocommerce-better-compare-public.php:1670
+msgid "Search by Product Name or SKU"
+msgstr "Vyhľadávanie podľa názvu produktu alebo SKU"
+
+#: public/class-woocommerce-better-compare-public.php:1677
+msgid "Search for product or sku"
+msgstr "Vyhľadajte produkt alebo SKU"
+
+#: admin/options-init.php:396 admin/options-init.php:723
+msgid "Set a custom Page"
+msgstr "Nastavte si vlastnú stránku"
+
+#: admin/options-init.php:1248
+msgid "Set the Comparison Page"
+msgstr "Nastavte porovnávaciu stránku"
+
+#: admin/options-init.php:1349
+msgid "Set the Share Comparison Page"
+msgstr "Nastavte stránku Porovnanie zdieľania"
+
+#: admin/options-init.php:616
+msgid ""
+"Settings for the [woocommerce_better_compare products=\"380,377\"]. If no "
+"IDs were set it takes the users products based on cookie."
+msgstr ""
+"Nastavenia pre položku [woocommerce_better_compare products =  \"380,377 \"]."
+" Ak neboli nastavené žiadne identifikátory, používatelia zaberajú produkty "
+"založené na súbore cookie."
+
+#: admin/options-init.php:1150
+msgid "Share"
+msgstr "zdieľam"
+
+#: admin/options-init.php:1327
+msgid "Share Compare"
+msgstr "Zdieľať Porovnať"
+
+#: admin/options-init.php:1149
+msgid "Share Comparison"
+msgstr "Zdieľať porovnanie"
+
+#: public/templates/woocommerce-my-comparisons-single.php:50
+msgid "Share this Comparison ..."
+msgstr "Zdieľajte toto porovnanie..."
+
+#: public/templates/woocommerce-my-comparison.php:56
+#: public/templates/woocommerce-my-comparisons.php:56
+msgid "Share this Wishlist ..."
+msgstr "Zdieľajte tento zoznam želaní..."
+
+#: admin/options-init.php:261
+msgid "Shop Loop Position"
+msgstr "Shop Loop Position"
+
+#: admin/options-init.php:268
+msgid "shop_loop_item_title"
+msgstr "shop_loop_item_title"
+
+#: admin/options-init.php:1030
+msgid "Shortcode Compare Table Styles"
+msgstr "Porovnanie stôp tabuľkových stôp"
+
+#: admin/options-init.php:351 admin/options-init.php:631
+msgid "Show a checkbox to Hide Similarities."
+msgstr "Zaškrtnite políčko Skryť podobnosti."
+
+#: admin/options-init.php:359 admin/options-init.php:638
+msgid "Show a checkbox to Highlight Differences."
+msgstr "Zobraziť začiarkavacie políčko na zvýraznenie rozdielov."
+
+#: admin/options-init.php:1207
+msgid "Show a My Compare lists under WoOCommerce My Account."
+msgstr "Zobraziť zoznamy Moje porovnanie v časti WoOCommerce Môj účet."
+
+#: admin/options-init.php:437
+msgid "Show a remove from compare icon next to product title."
+msgstr "Zobrazte ikonu odstránenia z porovnávania vedľa názvu produktu."
+
+#: admin/options-init.php:654
+msgid "Show all slides even if they are empty."
+msgstr "Zobraziť všetky snímky, aj keď sú prázdne."
+
+#: admin/options-init.php:675 admin/options-init.php:840
+msgid "Show Arrows"
+msgstr "Zobraziť šípky"
+
+#: admin/options-init.php:623 admin/options-init.php:795
+msgid "Show Attr Name in first Column"
+msgstr "Zobraziť Attr Name v prvom stĺpci"
+
+#: admin/options-init.php:743
+msgid "Show bought together products on product page"
+msgstr "Zobrazte zakúpené produkty spolu na stránke produktu"
+
+#: admin/options-init.php:296
+msgid "Show Compare Bar"
+msgstr "Zobraziť porovnávací panel"
+
+#: admin/options-init.php:303
+msgid "Show Compare Bar Only on product / category pages"
+msgstr "Zobraziť panel porovnania iba na stránkach produktov / kategórií"
+
+#: admin/options-init.php:690
+msgid ""
+"Show compared products based on a products categories on the product page."
+msgstr ""
+"Zobraziť porovnávané produkty na základe kategórií produktov na stránke "
+"produktu."
+
+#: public/class-woocommerce-better-compare-public.php:1323
+msgid "Show differences only"
+msgstr "Zobraziť len rozdiely"
+
+#: admin/options-init.php:669 admin/options-init.php:833
+msgid "Show Dots"
+msgstr "Zobraziť bodky"
+
+#: admin/options-init.php:698
+msgid "Show the add to compare button on product page"
+msgstr "Zobraziť tlačidlo pridať na porovnanie na stránke produktu"
+
+#: admin/options-init.php:615
+msgid "Single Compare Table"
+msgstr "Jednotná tabuľka porovnávania"
+
+#: admin/options-init.php:689
+msgid "Single Product"
+msgstr "Jednotlivý produkt"
+
+#: admin/options-init.php:704
+msgid "Single Product Button Position"
+msgstr "Poloha tlačidla jedného produktu"
+
+#: admin/options-init.php:85
+#: public/class-woocommerce-better-compare-public.php:1301
+msgid "Sku"
+msgstr "sku"
+
+#: admin/options-init.php:660 admin/options-init.php:823
+msgid "Slides to Scroll"
+msgstr "Slides pre posúvanie"
+
+#: admin/options-init.php:644 admin/options-init.php:813
+msgid "Slides to Show"
+msgstr "Prezentácie na zobrazenie"
+
+#: admin/options-init.php:705
+msgid "Specify the positon of the Button."
+msgstr "Zadajte polohu tlačidla."
+
+#: admin/options-init.php:262
+msgid "Specify the positon of the compare button in shop loop."
+msgstr "Zadajte pozíciu porovnávacieho tlačidla v obchode."
+
+#: admin/options-init.php:766
+msgid "Specify the positon of the compare table."
+msgstr "Zadajte pozíciu porovnávacej tabuľky."
+
+#: admin/options-init.php:125
+#: public/class-woocommerce-better-compare-public.php:1307
+msgid "Stock"
+msgstr "sklad"
+
+#: admin/options-init.php:864
+msgid "Styles for the compare bar."
+msgstr "Styly pre porovnávaciu lištu."
+
+#: admin/options-init.php:908
+msgid "Styles for the flyout compare table."
+msgstr "Styly pre porovnávaciu tabuľku."
+
+#: admin/options-init.php:1031
+msgid ""
+"Styles when you use the [woocommerce_better_compare products=\"X,X,X\"] "
+"shortcode."
+msgstr ""
+"Štýly, keď používate krátky kód [woocommerce_better_compare products =  \"X, "
+"X, X \"]."
+
+#: admin/options-init.php:855
+msgid "Styling"
+msgstr "Styling"
+
+#: admin/options-init.php:127
+#: public/class-woocommerce-better-compare-public.php:1308
+msgid "Tags"
+msgstr "Tagy"
+
+#: admin/options-init.php:130
+msgid "Taxonomy 1"
+msgstr "Taxonomie 1"
+
+#: admin/options-init.php:131
+msgid "Taxonomy 2"
+msgstr "Taxonomie 2"
+
+#: admin/options-init.php:132
+msgid "Taxonomy 3"
+msgstr "Taxonomie 3"
+
+#: admin/options-init.php:133
+msgid "Taxonomy 4"
+msgstr "Taxonomie 4"
+
+#: admin/options-init.php:872
+msgid "Text Color of the compare bar"
+msgstr "Farba textu porovnávacej lišty"
+
+#: admin/options-init.php:916 admin/options-init.php:1038
+msgid "Text Color of the compare Table"
+msgstr "Farba textu porovnávacej tabuľky"
+
+#: admin/options-init.php:1123
+msgid "Texts"
+msgstr "Texty"
+
+#: admin/options-init.php:1124
+msgid "Texts used in our plugin. Rest texts can be edited via loco translate."
+msgstr ""
+"Texty použité v našom plugine. Ostatné texty je možné upravovať pomocou loco "
+"translate."
+
+#: admin/options-init.php:559
+msgid "The Name that will be used for Meta 1. For example \"SKU\"."
+msgstr "Názov, ktorý sa použije pre Meta 1. Napríklad „SKU“."
+
+#: admin/options-init.php:573
+msgid "The Name that will be used for Meta 2. For example \"SKU\"."
+msgstr "Názov, ktorý sa použije pre Meta 2. Napríklad „SKU“."
+
+#: admin/options-init.php:587
+msgid "The Name that will be used for Meta 3. For example \"SKU\"."
+msgstr "Názov, ktorý sa použije pre Meta 3. Napríklad „SKU“."
+
+#: admin/options-init.php:601
+msgid "The Name that will be used for Meta 4. For example \"SKU\"."
+msgstr "Názov, ktorý sa použije pre Meta 4. Napríklad „SKU“."
+
+#: admin/options-init.php:472 admin/options-init.php:492
+#: admin/options-init.php:512 admin/options-init.php:532
+msgid ""
+"The Name that will be used for Taxonomy 1. For example \"Product "
+"Categories\"."
+msgstr ""
+"Názov, ktorý sa použije pre taxonómiu 1. Napríklad „Kategórie produktov“."
+
+#: admin/options-init.php:199
+msgid "This will display odd rows for all attribute groups."
+msgstr "Tým sa zobrazia nepárne riadky pre všetky skupiny atribútov."
+
+#: public/templates/woocommerce-my-comparison.php:17
+#: public/templates/woocommerce-my-comparisons.php:17
+msgid "This wishlist is set to private."
+msgstr "Tento zoznam želaní je nastavený ako súkromný."
+
+#: admin/options-init.php:82 admin/options-init.php:749
+#: public/class-woocommerce-better-compare-public.php:1297
+msgid "Title"
+msgstr "nadpis"
+
+#: admin/options-init.php:156
+msgid "To get auto updates please "
+msgstr "Ak chcete získať automatické aktualizácie, prosím"
+
+#: admin/options-init.php:333
+msgid "Top"
+msgstr "top"
+
+#: admin/options-init.php:126
+#: public/class-woocommerce-better-compare-public.php:1299
+msgid "Variations"
+msgstr "variácie"
+
+#: public/class-woocommerce-better-compare-my-lists.php:186
+msgid "View"
+msgstr "vyhliadka"
+
+#: admin/options-init.php:88
+#: public/class-woocommerce-better-compare-public.php:1306
+msgid "Weight"
+msgstr "závažia"
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr "weLaunch"
+
+#: admin/options-init.php:192
+msgid ""
+"When you drag an attribute group into enabled, it automatically gets all "
+"attributes."
+msgstr ""
+"Keď pretiahnete skupinu atribútov do aktivovanej, automaticky získa všetky "
+"atribúty."
+
+#: admin/options-init.php:1409
+msgid "Which product categories should be excluded."
+msgstr "Ktoré kategórie produktov by sa mali vylúčiť."
+
+#: admin/options-init.php:1397
+msgid ""
+"With the below settings you can exclude products / categories so that the "
+"price and add to cart will be shown."
+msgstr ""
+"Pomocou nižšie uvedených nastavení môžete vylúčiť produkty / kategórie, aby "
+"sa zobrazila cena a pridanie do košíka."
+
+#. Name of the plugin
+msgid "WooCommerce Better Compare"
+msgstr "WooCommerce lepšie porovnať"
+
+#: woocommerce-better-compare.php:87
+msgid ""
+"WooCommerce Better Compare requires the WooCommerce & free weLaunch "
+"Framework plugin. Please install or activate them: https://www.welaunch."
+"io/updates/welaunch-framework.zip"
+msgstr ""
+"WooCommerce Better Compare vyžaduje doplnok WooCommerce a bezplatný doplnok "
+"weLaunch Framework. Nainštalujte alebo aktivujte ich: https://www.welaunch."
+"io/updates/welaunch-framework.zip"
+
+#: admin/options-init.php:344 admin/options-init.php:430
+msgid ""
+"You can use e.g. full, large, woocommerce_thumbnail, woocommerce_single, "
+"shop_single, shop_catalog..."
+msgstr ""
+"Môžete použiť napr. Plné, veľké, woocommerce_thumbnail, woocommerce_single, "
+"shop_single, shop_catalog ..."
+
+#: admin/options-init.php:185
+msgid ""
+"You need our <a href=\"https://welaunch.io/plugins/woocommerce-group-"
+"attributes/\" target=\"_blank\">Group Attributes Plugin</a>."
+msgstr ""
+"Potrebujete náš <a href=\"https://welaunch.io/plugins/woocommerce-group-"
+"attributes/\" target=\"_blank\">doplnok Group Attributes Plugin</a> ."
+
+#: admin/options-init.php:566 admin/options-init.php:580
+#: admin/options-init.php:594 admin/options-init.php:608
+msgid ""
+"You need to specify the custom meta field name here. For example \"_sku\"."
+msgstr "Tu musíte zadať názov vlastného meta poľa. Napríklad „_sku“."
+
+#: admin/options-init.php:479 admin/options-init.php:499
+#: admin/options-init.php:519 admin/options-init.php:539
+msgid ""
+"You need to specify the custom taxonmy field name here. For example "
+"\"product_cat\"."
+msgstr ""
+"Tu musíte špecifikovať vlastné meno taxony. Napríklad  \"product_cat \"."
+
+#: public/class-woocommerce-better-compare-my-comparisons.php:175
+msgid "Your Comparisons"
+msgstr "Vaše prirovnania"

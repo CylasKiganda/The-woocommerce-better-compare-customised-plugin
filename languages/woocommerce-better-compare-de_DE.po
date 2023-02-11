@@ -1,0 +1,1407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Better Compare\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-20 07:32+0000\n"
+"PO-Revision-Date: 2022-02-03 19:22+0000\n"
+"Last-Translator: WeLaunch\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#: public/class-woocommerce-better-compare-public.php:1739
+#, php-format
+msgid "%d products found!"
+msgstr "%d Produkte gefunden!"
+
+#: public/class-woocommerce-better-compare-my-lists.php:175
+msgid "Action"
+msgstr "Aktion"
+
+#: admin/options-init.php:1696
+msgid "Add some javascript if you want."
+msgstr "Fügen Sie Javascript hinzu, wenn Sie möchten."
+
+#: admin/options-init.php:1689
+msgid "Add some stylesheet if you want."
+msgstr "Fügen Sie Stylesheets hinzu, wenn Sie möchten."
+
+#: admin/options-init.php:129 admin/options-init.php:1410
+msgid "Add to Cart"
+msgstr "in den Warenkorb legen"
+
+#: admin/options-init.php:184 admin/options-init.php:1420
+msgid "Add to Compare"
+msgstr "Vergleichen"
+
+#: admin/options-init.php:182
+msgid "Add to Compare Text"
+msgstr "Zum Vergleichstext hinzufügen"
+
+#: admin/options-init.php:1659
+msgid "Advanced settings"
+msgstr "Erweiterte Einstellungen"
+
+#: admin/options-init.php:942 admin/options-init.php:1003
+msgid "After Main Product"
+msgstr "Nach dem Hauptprodukt"
+
+#: admin/options-init.php:939 admin/options-init.php:1000
+msgid "After Meta Information"
+msgstr "Nach Meta-Informationen"
+
+#: admin/options-init.php:941 admin/options-init.php:1002
+msgid "After Single Product"
+msgstr "Nach dem Einzelprodukt"
+
+#: admin/options-init.php:940 admin/options-init.php:1001
+msgid "After Single Product Summary"
+msgstr "Nach einzelner Produktübersicht"
+
+#: admin/options-init.php:282
+msgid "after_shop_loop_item"
+msgstr "after_shop_loop_item"
+
+#: admin/options-init.php:281
+msgid "after_shop_loop_item_title"
+msgstr "after_shop_loop_item_title"
+
+#: admin/options-init.php:880
+msgid "Always show all Slides"
+msgstr "Immer alle Folien anzeigen"
+
+#: admin/options-init.php:309
+msgid ""
+"As an alternative you can hide the compare bar and just use the sidebar "
+"widget."
+msgstr ""
+"Als Alternative können Sie die Compare Bar ausblenden und einfach das "
+"Sidebar-Widget verwenden."
+
+#: admin/options-init.php:1418
+msgid "Attributes"
+msgstr "Attribute"
+
+#: admin/options-init.php:1107
+msgid "Background Color of the compare bar"
+msgstr "Hintergrundfarbe der Vergleichsleiste"
+
+#: admin/options-init.php:1151
+msgid "Background Color of the compare Table"
+msgstr "Hintergrundfarbe der Vergleichstabelle"
+
+#: admin/options-init.php:938 admin/options-init.php:999
+msgid "Before Meta Information"
+msgstr "Vor Meta-Informationen"
+
+#: admin/options-init.php:935 admin/options-init.php:996
+msgid "Before Single Product"
+msgstr "Vor dem Einzelprodukt"
+
+#: admin/options-init.php:936 admin/options-init.php:997
+msgid "Before Single Product Summary"
+msgstr "Vor der Zusammenfassung einzelner Produkte"
+
+#: admin/options-init.php:278
+msgid "before_shop_loop_item"
+msgstr "before_shop_loop_item"
+
+#: admin/options-init.php:279
+msgid "before_shop_loop_item_title"
+msgstr "before_shop_loop_item_title"
+
+#: admin/options-init.php:351
+msgid "Bottom"
+msgstr "Unterseite"
+
+#: admin/options-init.php:128 admin/options-init.php:1408
+#: public/class-woocommerce-better-compare-public.php:1315
+msgid "Categories"
+msgstr "Kategorien"
+
+#: admin/options-init.php:224
+msgid "Category Restriction"
+msgstr "Kategoriebeschränkung"
+
+#: admin/options-init.php:232
+msgid "Category Restriction Yoast Primary"
+msgstr "Kategorieeinschränkung Yoast Primary"
+
+#: admin/options-init.php:1681
+msgid "Check this to stop adding query parameters to URLs."
+msgstr ""
+"Aktivieren Sie diese Option, um das Hinzufügen von Abfrageparametern zu URLs "
+"zu beenden."
+
+#: admin/options-init.php:1364 admin/options-init.php:1365
+msgid "Clear All"
+msgstr "Alles löschen"
+
+#: admin/options-init.php:300
+msgid "Compare Bar & Table"
+msgstr "Bar & Tisch vergleichen"
+
+#: admin/options-init.php:1106
+msgid "Compare Bar Background Color"
+msgstr "Vergleichen Sie Bar Hintergrundfarbe"
+
+#: admin/options-init.php:385
+msgid "Compare Bar Height"
+msgstr "Compare Bar Höhe"
+
+#: admin/options-init.php:405
+msgid "Compare Bar Item Height"
+msgstr "Compare Bar Item Höhe"
+
+#: admin/options-init.php:395
+msgid "Compare Bar Item Width"
+msgstr "Compare Bar Item Weite"
+
+#: admin/options-init.php:329
+msgid "Compare Bar Layout"
+msgstr "Balkenlayout vergleichen"
+
+#: admin/options-init.php:348
+msgid "Compare Bar Position"
+msgstr "Compare Bar Position"
+
+#: admin/options-init.php:1090
+msgid "Compare Bar Styles"
+msgstr "Compare Bar Styles"
+
+#: admin/options-init.php:1098
+msgid "Compare Bar Text Color"
+msgstr "Vergleichen Sie Bar Textfarbe"
+
+#: admin/options-init.php:316
+msgid "Compare bar will only show on product / category pages.."
+msgstr ""
+"Die Vergleichsleiste wird nur auf Produkt- / Kategorieseiten angezeigt."
+
+#: admin/options-init.php:1358 admin/options-init.php:1359
+msgid "Compare Now"
+msgstr "Vergleichen Sie jetzt"
+
+#: admin/options-init.php:28 admin/options-init.php:160
+#: admin/options-init.php:1370 admin/options-init.php:1371
+msgid "Compare Products"
+msgstr "Produkte vergleichen"
+
+#: admin/options-init.php:1150
+msgid "Compare Table Background Color"
+msgstr "Vergleichen Sie die Hintergrundfarbe der Tabelle"
+
+#: admin/options-init.php:1203 admin/options-init.php:1297
+msgid "Compare Table Even Background Color"
+msgstr "Vergleichen Sie die Hintergrundfarbe der Tabelle"
+
+#: admin/options-init.php:1230 admin/options-init.php:1323
+msgid "Compare Table Highlight Background Color"
+msgstr "Vergleichen Sie die Hintergrundfarbe der Tabelle"
+
+#: admin/options-init.php:1177 admin/options-init.php:1271
+msgid "Compare Table Odd Background Color"
+msgstr "Vergleichen Sie die ungerade Hintergrundfarbe der Tabelle"
+
+#: admin/options-init.php:1134
+msgid "Compare Table Styles"
+msgstr "Vergleichen Sie Tabellenstile"
+
+#: admin/options-init.php:1142 admin/options-init.php:1264
+msgid "Compare Table Text Color"
+msgstr "Vergleichen Sie die Textfarbe der Tabelle"
+
+#: public/class-woocommerce-better-compare-public.php:850
+#: public/class-woocommerce-better-compare-public.php:1308
+msgid "Compare with"
+msgstr "Vergleichen mit"
+
+#: admin/options-init.php:1394
+msgid "Comparison Saved"
+msgstr "Vergleich gespeichert"
+
+#: admin/options-init.php:1395
+msgid "Comparison saved!"
+msgstr "Vergleich gespeichert!"
+
+#: admin/options-init.php:1443
+msgid "Comparisons"
+msgstr "Vergleiche"
+
+#: admin/options-init.php:1688
+msgid "Custom CSS"
+msgstr "Benutzerdefinierte CSS"
+
+#: admin/options-init.php:1695
+msgid "Custom JS"
+msgstr "Benutzerdefinierte JS"
+
+#: admin/options-init.php:499
+msgid "Custom Meta 1"
+msgstr "Benutzerdefinierte Meta 1"
+
+#: admin/options-init.php:492
+msgid "Custom Meta 1 Name"
+msgstr "Benutzerdefinierter Meta-1-Name"
+
+#: admin/options-init.php:625
+msgid "Custom Meta 10"
+msgstr ""
+
+#: admin/options-init.php:618
+msgid "Custom Meta 10 Name"
+msgstr ""
+
+#: admin/options-init.php:513
+msgid "Custom Meta 2"
+msgstr "Benutzerdefinierte Meta 2"
+
+#: admin/options-init.php:506
+msgid "Custom Meta 2 Name"
+msgstr "Benutzerdefinierter Meta-2-Name"
+
+#: admin/options-init.php:527
+msgid "Custom Meta 3"
+msgstr "Benutzerdefinierte Meta 3"
+
+#: admin/options-init.php:520
+msgid "Custom Meta 3 Name"
+msgstr "Benutzerdefinierter Meta-3-Name"
+
+#: admin/options-init.php:541
+msgid "Custom Meta 4"
+msgstr "Benutzerdefinierte Meta 4"
+
+#: admin/options-init.php:534
+msgid "Custom Meta 4 Name"
+msgstr "Benutzerdefinierter Meta-4-Name"
+
+#: admin/options-init.php:555
+msgid "Custom Meta 5"
+msgstr ""
+
+#: admin/options-init.php:548
+msgid "Custom Meta 5 Name"
+msgstr ""
+
+#: admin/options-init.php:569
+msgid "Custom Meta 6"
+msgstr ""
+
+#: admin/options-init.php:562
+msgid "Custom Meta 6 Name"
+msgstr ""
+
+#: admin/options-init.php:583
+msgid "Custom Meta 7"
+msgstr ""
+
+#: admin/options-init.php:576
+msgid "Custom Meta 7 Name"
+msgstr ""
+
+#: admin/options-init.php:597
+msgid "Custom Meta 8"
+msgstr ""
+
+#: admin/options-init.php:590
+msgid "Custom Meta 8 Name"
+msgstr ""
+
+#: admin/options-init.php:611
+msgid "Custom Meta 9"
+msgstr ""
+
+#: admin/options-init.php:604
+msgid "Custom Meta 9 Name"
+msgstr ""
+
+#: admin/options-init.php:484
+msgid "Custom Metas"
+msgstr ""
+
+#: admin/options-init.php:1660
+msgid "Custom stylesheet / javascript."
+msgstr "Benutzerdefiniertes Stylesheet / Javascript."
+
+#: admin/options-init.php:633
+msgid "Custom Taxonomies"
+msgstr "Benutzerdefinierte Taxonomien"
+
+#: admin/options-init.php:648
+msgid "Custom Taxonomy 1"
+msgstr "Benutzerdefinierte Taxonomie 1"
+
+#: admin/options-init.php:641
+msgid "Custom Taxonomy 1 Name"
+msgstr "Name der benutzerdefinierten Taxonomie 1"
+
+#: admin/options-init.php:828
+msgid "Custom Taxonomy 10"
+msgstr ""
+
+#: admin/options-init.php:821
+msgid "Custom Taxonomy 10 Name"
+msgstr ""
+
+#: admin/options-init.php:668
+msgid "Custom Taxonomy 2"
+msgstr "Benutzerdefinierte Taxonomie 2"
+
+#: admin/options-init.php:661
+msgid "Custom Taxonomy 2 Name"
+msgstr "Name der benutzerdefinierten Taxonomie 2"
+
+#: admin/options-init.php:688
+msgid "Custom Taxonomy 3"
+msgstr "Benutzerdefinierte Taxonomie 3"
+
+#: admin/options-init.php:681
+msgid "Custom Taxonomy 3 Name"
+msgstr "Name der benutzerdefinierten Taxonomie 3"
+
+#: admin/options-init.php:708
+msgid "Custom Taxonomy 4"
+msgstr "Benutzerdefinierte Taxonomie 4"
+
+#: admin/options-init.php:701
+msgid "Custom Taxonomy 4 Name"
+msgstr "Name der benutzerdefinierten Taxonomie 4"
+
+#: admin/options-init.php:728
+msgid "Custom Taxonomy 5"
+msgstr ""
+
+#: admin/options-init.php:721
+msgid "Custom Taxonomy 5 Name"
+msgstr ""
+
+#: admin/options-init.php:748
+msgid "Custom Taxonomy 6"
+msgstr ""
+
+#: admin/options-init.php:741
+msgid "Custom Taxonomy 6 Name"
+msgstr ""
+
+#: admin/options-init.php:768
+msgid "Custom Taxonomy 7"
+msgstr ""
+
+#: admin/options-init.php:761
+msgid "Custom Taxonomy 7 Name"
+msgstr ""
+
+#: admin/options-init.php:788
+msgid "Custom Taxonomy 8"
+msgstr ""
+
+#: admin/options-init.php:781
+msgid "Custom Taxonomy 8 Name"
+msgstr ""
+
+#: admin/options-init.php:808
+msgid "Custom Taxonomy 9"
+msgstr ""
+
+#: admin/options-init.php:801
+msgid "Custom Taxonomy 9 Name"
+msgstr ""
+
+#: admin/options-init.php:425
+msgid "Data to Compare"
+msgstr "Zu vergleichende Daten"
+
+#: public/templates/woocommerce-my-comparisons-single.php:21
+msgid "Delete"
+msgstr "Löschen"
+
+#: public/templates/woocommerce-my-comparison.php:25
+#: public/templates/woocommerce-my-comparisons.php:25
+msgid "Delete Wishlist"
+msgstr "Wunschliste löschen"
+
+#: admin/options-init.php:124 admin/options-init.php:984
+#: admin/options-init.php:1417
+#: public/class-woocommerce-better-compare-public.php:1310
+msgid "Description"
+msgstr "Beschreibung"
+
+#: admin/options-init.php:87
+#: public/class-woocommerce-better-compare-public.php:1311
+msgid "Dimensions"
+msgstr "Maße"
+
+#: admin/options-init.php:1680
+msgid "Disable Replace State"
+msgstr "Ersetzen-Status deaktivieren"
+
+#: admin/options-init.php:1542
+msgid "Disable that when you use woodmart theme or see 2 logout menu items."
+msgstr ""
+"Deaktivieren Sie dies, wenn Sie das Woodmart-Design verwenden oder 2 "
+"Abmeldemenüelemente anzeigen."
+
+#: admin/options-init.php:924
+msgid "Display Compare Button on Product Page"
+msgstr "Display Compare Button auf der Produktseite"
+
+#: admin/options-init.php:969
+msgid "Display Compare Table on Product Page"
+msgstr "Vergleichstabelle auf der Produktseite anzeigen"
+
+#: admin/options-init.php:1674
+msgid "Do Not Load Font Awesome 5"
+msgstr "Font Awesome 5 . nicht laden"
+
+#: admin/options-init.php:463
+msgid "Each product title is linked to the product page."
+msgstr "Jeder Produkttitel ist mit der Produktseite verlinkt."
+
+#: public/templates/woocommerce-my-comparisons-single.php:20
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: public/templates/woocommerce-my-comparison.php:24
+#: public/templates/woocommerce-my-comparisons.php:24
+msgid "Edit Wishlist"
+msgstr "Wunschliste bearbeiten"
+
+#: admin/options-init.php:175
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: admin/options-init.php:196
+msgid "Enable Attribute Group Compatibility"
+msgstr "Attributgruppenkompatibilität aktivieren"
+
+#: admin/options-init.php:217
+msgid "Enable Category Restriction"
+msgstr "Kategorieeinschränkung aktivieren"
+
+#: admin/options-init.php:176
+msgid "Enable Compare Products."
+msgstr "Aktivieren Sie Produkte vergleichen."
+
+#: admin/options-init.php:1434
+msgid "Enable My Comparisons Page"
+msgstr "Meine Vergleichsseite aktivieren"
+
+#: admin/options-init.php:86
+#: public/class-woocommerce-better-compare-public.php:1309
+msgid "Excerpt"
+msgstr "Auszug"
+
+#: admin/options-init.php:1631
+msgid "Exclude Product Categories"
+msgstr "Produktkategorien ausschließen"
+
+#: admin/options-init.php:1646
+msgid "Exclude Products created by one of the following users."
+msgstr ""
+"Produkte ausschließen, die von einem der folgenden Benutzer erstellt wurden."
+
+#: admin/options-init.php:1645
+msgid "Exclude User Products"
+msgstr "Benutzerprodukte ausschließen"
+
+#: admin/options-init.php:1619
+msgid "Exclusions"
+msgstr "Ausschlüsse"
+
+#: admin/options-init.php:1004
+msgid "flatsome_custom_single_product_1"
+msgstr "flatsome_custom_single_product_1"
+
+#: admin/options-init.php:1427
+msgid ""
+"For My Account – After saving this, please go to WooCommerce > Advanced and "
+"save my account enpoints."
+msgstr ""
+"Für mein Konto – Nachdem Sie dies gespeichert haben, gehen Sie bitte zu "
+"WooCommerce > Erweitert und speichern Sie meine Kontopunkte."
+
+#: admin/options-init.php:167
+msgid "General"
+msgstr "Allgemeines"
+
+#: admin/options-init.php:203
+msgid "Get Attributes automatically from a Group"
+msgstr "Attribute automatisch von einer Gruppe abrufen"
+
+#: admin/options-init.php:342
+msgid "Gives more Space in the compare bar."
+msgstr "Gibt mehr Platz in der Vergleichsleiste."
+
+#: admin/options-init.php:114
+msgid "Group:"
+msgstr "Gruppe:"
+
+#: admin/options-init.php:322
+msgid "Hide empty Compare Bar"
+msgstr ""
+
+#: admin/options-init.php:341
+msgid "Hide Placeholder Images"
+msgstr "Platzhalterbilder ausblenden"
+
+#: admin/options-init.php:369 admin/options-init.php:857
+#: public/class-woocommerce-better-compare-public.php:671
+#: public/class-woocommerce-better-compare-public.php:866
+msgid "Hide Similarities"
+msgstr "Ähnlichkeiten ausblenden"
+
+#: admin/options-init.php:323
+msgid "Hide the Compare Bar until a product has been added"
+msgstr ""
+
+#: admin/options-init.php:377 admin/options-init.php:864
+#: public/class-woocommerce-better-compare-public.php:672
+#: public/class-woocommerce-better-compare-public.php:867
+msgid "Highlight Differences"
+msgstr "Unterschiede hervorheben"
+
+#: admin/options-init.php:289 admin/options-init.php:959
+#: admin/options-init.php:1012
+msgid "Hook Priority"
+msgstr "Hook-Priorität"
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr "https://welaunch.io"
+
+#. URI of the plugin
+msgid "https://welaunch.io/plugins/woocommerce-better-compare/"
+msgstr "https://welaunch.io/plugins/woocommerce-better-compare/"
+
+#: admin/options-init.php:470 admin/options-init.php:477
+msgid "If not enabled they will be executed."
+msgstr "Wenn sie nicht aktiviert sind, werden sie ausgeführt."
+
+#: admin/options-init.php:951
+msgid ""
+"If you do not want to use the compare bar / fly out table, you can set a "
+"link to your compare page here. Make sure you place the "
+"[woocommerce_better_compare] shortcode on this page (without any parameters)."
+msgstr ""
+"Wenn Sie die Vergleichsleiste / Flyout-Tabelle nicht verwenden möchten, "
+"können Sie hier einen Link zu Ihrer Vergleichsseite setzen. Stellen Sie "
+"sicher, dass Sie den Shortcode [woocommerce_better_compare] auf dieser Seite "
+"platzieren (ohne Parameter)."
+
+#: admin/options-init.php:416
+msgid ""
+"If you do not want to use the fly out compare table, you can set a link to "
+"your compare page here. Make sure you place the [woocommerce_better_compare] "
+"shortcode on this page (without any parameters). . Do NOT cache this page."
+msgstr ""
+"Wenn Sie die Flyout-Vergleichstabelle nicht verwenden möchten, können Sie "
+"hier einen Link zu Ihrer Vergleichsseite setzen. Stellen Sie sicher, dass "
+"Sie den Shortcode [woocommerce_better_compare] auf dieser Seite platzieren "
+"(ohne Parameter). . Diese Seite NICHT zwischenspeichern."
+
+#: admin/options-init.php:485
+msgid ""
+"If you have dragged custom post metas into the enabled data above you need "
+"to set its data here."
+msgstr ""
+"Wenn Sie benutzerdefinierte Post-Meta in die oben aktivierten Daten gezogen "
+"haben, müssen Sie ihre Daten hier einstellen."
+
+#: admin/options-init.php:634
+msgid ""
+"If you have dragged taxonomies into the enabled data above you need to set "
+"its data here."
+msgstr ""
+"Wenn Sie Taxonomien in die oben aktivierten Daten gezogen haben, müssen Sie "
+"deren Daten hier einstellen."
+
+#: admin/options-init.php:81 admin/options-init.php:1401
+msgid "Image"
+msgstr "Bild"
+
+#: admin/options-init.php:362
+msgid "Image Size"
+msgstr "Bildgröße"
+
+#: admin/options-init.php:448
+msgid "Image Size (Compare Table)"
+msgstr "Bildgröße (Tabelle vergleichen)"
+
+#: admin/options-init.php:937 admin/options-init.php:998
+msgid "In Single Product Summary"
+msgstr "In Einzelproduktübersicht"
+
+#: admin/options-init.php:1638 admin/options-init.php:1653
+msgid "Instead of exclusion it will include."
+msgstr "Anstelle von Ausgrenzung wird es einschließen."
+
+#: admin/options-init.php:851 admin/options-init.php:1023
+msgid ""
+"Instead of showing the attr name above the value it will be shown in first "
+"column."
+msgstr ""
+"Anstatt den attr-Namen über dem Wert anzuzeigen, wird er in der ersten "
+"Spalte angezeigt."
+
+#: admin/options-init.php:1472
+msgid "Intro Text"
+msgstr "Einführungstext"
+
+#: admin/options-init.php:332
+msgid "Layout 1"
+msgstr "Layout 1"
+
+#: admin/options-init.php:333
+msgid "Layout 2"
+msgstr "Layout 2"
+
+#: admin/options-init.php:330
+msgid "Layout of the compare bar"
+msgstr "Aufbau der Vergleichsleiste"
+
+#. Description of the plugin
+msgid "Let your users compare products with ease"
+msgstr "Ermöglichen Sie Ihren Benutzern einen einfachen Produktvergleich"
+
+#: admin/options-init.php:1551
+msgid "Make compare lists shareable."
+msgstr "Machen Sie Vergleichslisten gemeinsam nutzbar."
+
+#: admin/options-init.php:908 admin/options-init.php:1074
+msgid "Make it Infinite"
+msgstr "Mach es unendlich"
+
+#: admin/options-init.php:1457 admin/options-init.php:1573
+msgid ""
+"Make sure you place the [woocommerce_better_compare] shortcode on this page "
+"(without any parameters) to dynamically render the compare table. Do NOT "
+"cache this page."
+msgstr ""
+"Stellen Sie sicher, dass Sie den Shortcode [woocommerce_better_compare] auf "
+"dieser Seite (ohne Parameter) platzieren, um die Vergleichstabelle dynamisch "
+"zu rendern. Diese Seite NICHT zwischenspeichern."
+
+#: public/class-woocommerce-better-compare-public.php:1339
+msgid "Max products reached"
+msgstr "Max Produkte erreicht"
+
+#: admin/options-init.php:248
+msgid "Max products to Compare (Desktop)"
+msgstr "Max. zu vergleichende Produkte (Desktop)"
+
+#: admin/options-init.php:257
+msgid "Max products to Compare (Mobile)"
+msgstr "Max. zu vergleichende Produkte (Mobil)"
+
+#: admin/options-init.php:1030
+msgid "Max Products to show"
+msgstr "Max Produkte zu zeigen"
+
+#: admin/options-init.php:1441
+msgid "Menu Title"
+msgstr "Menütitel"
+
+#: admin/options-init.php:140
+msgid "Meta Field 1"
+msgstr "Metafeld 1"
+
+#: admin/options-init.php:149
+msgid "Meta Field 10"
+msgstr ""
+
+#: admin/options-init.php:141
+msgid "Meta Field 2"
+msgstr "Metafeld 2"
+
+#: admin/options-init.php:142
+msgid "Meta Field 3"
+msgstr "Metafeld 3"
+
+#: admin/options-init.php:143
+msgid "Meta Field 4"
+msgstr "Metafeld 4"
+
+#: admin/options-init.php:144
+msgid "Meta Field 5"
+msgstr ""
+
+#: admin/options-init.php:145
+msgid "Meta Field 6"
+msgstr ""
+
+#: admin/options-init.php:146
+msgid "Meta Field 7"
+msgstr ""
+
+#: admin/options-init.php:147
+msgid "Meta Field 8"
+msgstr ""
+
+#: admin/options-init.php:148
+msgid "Meta Field 9"
+msgstr ""
+
+#: admin/options-init.php:1541
+msgid "Move Logout to last position"
+msgstr "Abmeldung an die letzte Position verschieben"
+
+#: admin/options-init.php:1442
+msgid "My Compare Lists"
+msgstr "Meine Vergleichslisten"
+
+#: admin/options-init.php:1500
+msgid "My Comparison on YOUR_SITE"
+msgstr ""
+
+#: admin/options-init.php:1426
+msgid "My Comparisons"
+msgstr "Meine Vergleiche"
+
+#: public/class-woocommerce-better-compare-my-lists.php:174
+msgid "Name"
+msgstr "Name"
+
+#: admin/options-init.php:162
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr ""
+"Brauche Unterstützung? Bitte verwenden Sie die Kommentarfunktion bei "
+"Codecanyon."
+
+#: public/class-woocommerce-better-compare-my-lists.php:195
+#: public/class-woocommerce-better-compare-my-comparisons.php:190
+msgid "No Compare page set or no comparisons saved yet."
+msgstr ""
+"Keine Vergleichsseite eingestellt oder noch keine Vergleiche gespeichert."
+
+#: public/class-woocommerce-better-compare-public.php:1706
+#: public/class-woocommerce-better-compare-public.php:1853
+msgid "No Product found ..."
+msgstr "Kein Produkt gefunden ..."
+
+#: admin/options-init.php:1451
+msgid "No products added so far."
+msgstr "Bisher keine Produkte hinzugefügt."
+
+#: public/class-woocommerce-better-compare-public.php:531
+msgid "No Products defined."
+msgstr "Keine Produkte definiert."
+
+#: admin/options-init.php:1449
+msgid "No Products Text"
+msgstr "Kein Produkttext"
+
+#: admin/options-init.php:277
+msgid "None (Custom Integration)"
+msgstr "Keine (benutzerdefinierte Integration)"
+
+#: admin/options-init.php:266
+msgid "Not Available Text"
+msgstr "Nicht verfügbarer Text"
+
+#: admin/options-init.php:1483
+msgid "Outro Text"
+msgstr "Outro-Text"
+
+#: admin/options-init.php:1389
+msgid "Please enter a comparison name!"
+msgstr "Bitte geben Sie einen Vergleichsnamen ein!"
+
+#: admin/options-init.php:992
+msgid "Position"
+msgstr "Position"
+
+#: admin/options-init.php:349
+msgid "Position of the compare bar"
+msgstr "Position der Compare Bar"
+
+#: admin/options-init.php:84 admin/options-init.php:1404
+#: public/class-woocommerce-better-compare-public.php:1306
+msgid "Price"
+msgstr "Preis"
+
+#: admin/options-init.php:218
+msgid "Product can only be compared if they are in the same category."
+msgstr ""
+"Produkte können nur verglichen werden, wenn sie in derselben Kategorie sind."
+
+#: admin/options-init.php:233
+msgid ""
+"Product can only be compared when they have the same Yoast Primary category. "
+"When disabled it will be subcategory based."
+msgstr ""
+"Produkte können nur verglichen werden, wenn sie dieselbe Yoast Primary-"
+"Kategorie haben. Wenn es deaktiviert ist, basiert es auf Unterkategorien."
+
+#: public/class-woocommerce-better-compare-public.php:1723
+#: public/class-woocommerce-better-compare-public.php:1731
+msgid "Product found!"
+msgstr "Produkt gefunden!"
+
+#: admin/options-init.php:89 admin/options-init.php:1419
+#: public/class-woocommerce-better-compare-public.php:1213
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: admin/options-init.php:168
+msgid "register your License here."
+msgstr "Registrieren Sie Ihre Lizenz hier."
+
+#: admin/options-init.php:191
+msgid "Remove from Compare"
+msgstr "Nicht mehr vergleichen"
+
+#: admin/options-init.php:189
+msgid "Remove from Compare Text"
+msgstr "Aus Vergleichstext entfernen"
+
+#: admin/options-init.php:655
+msgid "Remove Links 1"
+msgstr "Links entfernen 1"
+
+#: admin/options-init.php:835
+msgid "Remove Links 10"
+msgstr ""
+
+#: admin/options-init.php:675
+msgid "Remove Links 2"
+msgstr "Links entfernen 2"
+
+#: admin/options-init.php:695
+msgid "Remove Links 3"
+msgstr "Links entfernen 3"
+
+#: admin/options-init.php:715
+msgid "Remove Links 4"
+msgstr "Links entfernen 4"
+
+#: admin/options-init.php:735
+msgid "Remove Links 5"
+msgstr ""
+
+#: admin/options-init.php:755
+msgid "Remove Links 6"
+msgstr ""
+
+#: admin/options-init.php:775
+msgid "Remove Links 7"
+msgstr ""
+
+#: admin/options-init.php:795
+msgid "Remove Links 8"
+msgstr ""
+
+#: admin/options-init.php:815
+msgid "Remove Links 9"
+msgstr ""
+
+#: admin/options-init.php:1466
+msgid "Reorder, enable or disable data fields."
+msgstr ""
+
+#: admin/options-init.php:210
+msgid "Reset Counts after Group"
+msgstr "Zähler nach Gruppe zurücksetzen"
+
+#: admin/options-init.php:1637
+msgid "Revert Categories Exclusion"
+msgstr "Kategorienausschluss rückgängig machen"
+
+#: admin/options-init.php:1652
+msgid "Revert User Products Exclusion"
+msgstr "Ausschluss von Benutzerprodukten rückgängig machen"
+
+#: admin/options-init.php:83 admin/options-init.php:1403
+#: public/class-woocommerce-better-compare-public.php:1304
+msgid "Reviews"
+msgstr "Bewertungen"
+
+#: admin/options-init.php:1383
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/options-init.php:1382
+msgid "Save Comparison"
+msgstr "Vergleich speichern"
+
+#: admin/options-init.php:1388
+msgid "Save Comparison Prompt"
+msgstr "Vergleichsaufforderung speichern"
+
+#: admin/options-init.php:123
+msgid "Search Autocomplete"
+msgstr "Autovervollständigung suchen"
+
+#: public/class-woocommerce-better-compare-public.php:1688
+msgid "Search by Product Name or SKU"
+msgstr "Suche nach Produktname oder Artikelnummer"
+
+#: public/class-woocommerce-better-compare-public.php:1695
+msgid "Search for product or sku"
+msgstr "Suche nach Produkt oder Sku"
+
+#: admin/options-init.php:415 admin/options-init.php:950
+msgid "Set a custom Page"
+msgstr "Legen Sie eine benutzerdefinierte Seite fest"
+
+#: admin/options-init.php:1456
+msgid "Set the Comparison Page"
+msgstr "Stellen Sie die Vergleichsseite ein"
+
+#: admin/options-init.php:1572
+msgid "Set the Share Comparison Page"
+msgstr "Legen Sie die Aktienvergleichsseite fest"
+
+#: admin/options-init.php:843
+msgid ""
+"Settings for the [woocommerce_better_compare products=\"380,377\"]. If no "
+"IDs were set it takes the users products based on cookie."
+msgstr ""
+"Einstellungen für die [wocommerce_better_compare-Produkte = \"380,377\"]. "
+"Wenn keine IDs festgelegt wurden, werden den Benutzern Produkte basierend "
+"auf dem Cookie entnommen."
+
+#: admin/options-init.php:1377
+msgid "Share"
+msgstr "Teilen"
+
+#: admin/options-init.php:1550
+msgid "Share Compare"
+msgstr "Teilen Vergleichen"
+
+#: admin/options-init.php:1376
+msgid "Share Comparison"
+msgstr "Vergleich teilen"
+
+#: public/templates/woocommerce-my-comparisons-single.php:51
+msgid "Share this Comparison ..."
+msgstr "Teilen Sie diesen Vergleich ..."
+
+#: public/templates/woocommerce-my-comparison.php:56
+#: public/templates/woocommerce-my-comparisons.php:56
+msgid "Share this Wishlist ..."
+msgstr "Diese Wunschliste teilen ..."
+
+#: admin/options-init.php:1499
+msgid "Share Title"
+msgstr ""
+
+#: admin/options-init.php:273
+msgid "Shop Loop Position"
+msgstr "Shop Loop Position"
+
+#: admin/options-init.php:280
+msgid "shop_loop_item_title"
+msgstr "shop_loop_item_title"
+
+#: admin/options-init.php:1409
+msgid "Short Description"
+msgstr ""
+
+#: admin/options-init.php:1257
+msgid "Shortcode Compare Table Styles"
+msgstr "Shortcode Vergleichen Sie Tabellenstile"
+
+#: admin/options-init.php:370 admin/options-init.php:858
+msgid "Show a checkbox to Hide Similarities."
+msgstr "Ein Kontrollkästchen zum Ausblenden von Ähnlichkeiten anzeigen"
+
+#: admin/options-init.php:378 admin/options-init.php:865
+msgid "Show a checkbox to Highlight Differences."
+msgstr "Aktivieren Sie ein Kontrollkästchen, um Unterschiede hervorzuheben."
+
+#: admin/options-init.php:456
+msgid "Show a remove from compare icon next to product title."
+msgstr ""
+"Ein Symbol zum Entfernen aus dem Vergleich neben dem Produkttitel anzeigen."
+
+#: admin/options-init.php:1435
+#, fuzzy
+#| msgid "Show a My Compare lists under WoOCommerce My Account."
+msgid "Show all saved comparison lists under WooCommerce My Account."
+msgstr "Zeigen Sie eine Mein Vergleichsliste unter WoOCommerce Mein Konto an."
+
+#: admin/options-init.php:881
+msgid "Show all slides even if they are empty."
+msgstr "Alle Folien anzeigen, auch wenn sie leer sind."
+
+#: admin/options-init.php:902 admin/options-init.php:1067
+msgid "Show Arrows"
+msgstr "Pfeile zeigen"
+
+#: admin/options-init.php:850 admin/options-init.php:1022
+msgid "Show Attr Name in first Column"
+msgstr "Attr Name in der ersten Spalte anzeigen"
+
+#: admin/options-init.php:970
+msgid "Show bought together products on product page"
+msgstr "Zeigen Sie gekaufte Produkte auf der Produktseite zusammen"
+
+#: admin/options-init.php:308
+msgid "Show Compare Bar"
+msgstr "Zeige Compare-Bar"
+
+#: admin/options-init.php:315
+#, fuzzy
+#| msgid "Show Compare Bar Only on product / category pages"
+msgid "Show Compare Bar Only on product / category / my account pages"
+msgstr "Vergleichsleiste nur auf Produkt-/Kategorieseiten anzeigen"
+
+#: admin/options-init.php:917
+msgid ""
+"Show compared products based on a products categories on the product page."
+msgstr ""
+"Zeige Vergleichsprodukte basierend auf Produktkategorien auf der "
+"Produktseite an."
+
+#: public/class-woocommerce-better-compare-public.php:1341
+msgid "Show differences only"
+msgstr "Zeige nur Unterschiede"
+
+#: admin/options-init.php:896 admin/options-init.php:1060
+msgid "Show Dots"
+msgstr "Zeige Punkte"
+
+#: admin/options-init.php:1534
+msgid "Show Email Share"
+msgstr ""
+
+#: admin/options-init.php:1513
+msgid "Show Facebook Share"
+msgstr ""
+
+#: admin/options-init.php:1527
+msgid "Show Pinterest Share"
+msgstr ""
+
+#: admin/options-init.php:1506
+msgid "Show Print"
+msgstr ""
+
+#: admin/options-init.php:1493
+msgid "Show Share Buttons"
+msgstr ""
+
+#: admin/options-init.php:925
+msgid "Show the add to compare button on product page"
+msgstr ""
+"Zeigen Sie die Schaltfläche zum Hinzufügen zum Vergleichen auf der "
+"Produktseite an"
+
+#: admin/options-init.php:1520
+msgid "Show Twitter Share"
+msgstr ""
+
+#: admin/options-init.php:842
+msgid "Single Compare Table"
+msgstr "Einzelne Vergleichstabelle"
+
+#: admin/options-init.php:916
+msgid "Single Product"
+msgstr "Einzelnes Produkt"
+
+#: admin/options-init.php:931
+msgid "Single Product Button Position"
+msgstr "Position der einzelnen Produkttasten"
+
+#: admin/options-init.php:1406
+msgid "SKU"
+msgstr "Artikelnummer"
+
+#: admin/options-init.php:85
+#: public/class-woocommerce-better-compare-public.php:1307
+msgid "Sku"
+msgstr "Sku"
+
+#: admin/options-init.php:887 admin/options-init.php:1050
+msgid "Slides to Scroll"
+msgstr "Folien zum Blättern"
+
+#: admin/options-init.php:871 admin/options-init.php:1040
+msgid "Slides to Show"
+msgstr "Folien zum Anzeigen"
+
+#: admin/options-init.php:932
+msgid "Specify the positon of the Button."
+msgstr "Geben Sie die Position des Buttons an."
+
+#: admin/options-init.php:274
+msgid "Specify the positon of the compare button in shop loop."
+msgstr "Position des Vergleichen-Buttons im Shop Loop."
+
+#: admin/options-init.php:993
+msgid "Specify the positon of the compare table."
+msgstr "Geben Sie die Position der Vergleichstabelle an."
+
+#: admin/options-init.php:125 admin/options-init.php:1405
+#: public/class-woocommerce-better-compare-public.php:1313
+msgid "Stock"
+msgstr "Stock"
+
+#: admin/options-init.php:1091
+msgid "Styles for the compare bar."
+msgstr "Stile für die Compare Bar"
+
+#: admin/options-init.php:1135
+msgid "Styles for the flyout compare table."
+msgstr "Stile für die Flyout-Vergleichstabelle"
+
+#: admin/options-init.php:1258
+msgid ""
+"Styles when you use the [woocommerce_better_compare products=\"X,X,X\"] "
+"shortcode."
+msgstr ""
+"Stile, wenn Sie den [wocommerce_better_compare products=\"X,X,X\"] Shortcode "
+"verwenden."
+
+#: admin/options-init.php:1082
+msgid "Styling"
+msgstr "Styling"
+
+#: admin/options-init.php:127 admin/options-init.php:1407
+#: public/class-woocommerce-better-compare-public.php:1314
+msgid "Tags"
+msgstr "Stichworte"
+
+#: admin/options-init.php:130
+msgid "Taxonomy 1"
+msgstr "Taxonomie 1"
+
+#: admin/options-init.php:139
+msgid "Taxonomy 10"
+msgstr ""
+
+#: admin/options-init.php:131
+msgid "Taxonomy 2"
+msgstr "Taxonomie 2"
+
+#: admin/options-init.php:132
+msgid "Taxonomy 3"
+msgstr "Taxonomie 3"
+
+#: admin/options-init.php:133
+msgid "Taxonomy 4"
+msgstr "Taxonomie 4"
+
+#: admin/options-init.php:134
+msgid "Taxonomy 5"
+msgstr ""
+
+#: admin/options-init.php:135
+msgid "Taxonomy 6"
+msgstr ""
+
+#: admin/options-init.php:136
+msgid "Taxonomy 7"
+msgstr ""
+
+#: admin/options-init.php:137
+msgid "Taxonomy 8"
+msgstr ""
+
+#: admin/options-init.php:138
+msgid "Taxonomy 9"
+msgstr ""
+
+#: admin/options-init.php:1099
+msgid "Text Color of the compare bar"
+msgstr "Text Farbe der Vergleichsleiste"
+
+#: admin/options-init.php:1143 admin/options-init.php:1265
+msgid "Text Color of the compare Table"
+msgstr "Text Farbe der Vergleichstabelle"
+
+#: admin/options-init.php:1350
+msgid "Texts"
+msgstr "Texte"
+
+#: admin/options-init.php:1351
+msgid "Texts used in our plugin. Rest texts can be edited via loco translate."
+msgstr ""
+"In unserem Plugin verwendete Texte. Resttexte können über loco translate "
+"bearbeitet werden."
+
+#: admin/options-init.php:493
+msgid "The Name that will be used for Meta 1. For example \"SKU\"."
+msgstr "Der Name, der für Meta 1 verwendet wird. Zum Beispiel \"SKU\"."
+
+#: admin/options-init.php:619
+msgid "The Name that will be used for Meta 10. For example \"SKU\"."
+msgstr ""
+
+#: admin/options-init.php:507
+msgid "The Name that will be used for Meta 2. For example \"SKU\"."
+msgstr "Der Name, der für Meta 2 verwendet wird. Zum Beispiel \"SKU\"."
+
+#: admin/options-init.php:521
+msgid "The Name that will be used for Meta 3. For example \"SKU\"."
+msgstr "Der Name, der für Meta 3 verwendet wird. Zum Beispiel \"SKU\"."
+
+#: admin/options-init.php:535
+msgid "The Name that will be used for Meta 4. For example \"SKU\"."
+msgstr "Der Name, der für Meta 4 verwendet wird. Zum Beispiel \"SKU\"."
+
+#: admin/options-init.php:549
+msgid "The Name that will be used for Meta 5. For example \"SKU\"."
+msgstr ""
+
+#: admin/options-init.php:563
+msgid "The Name that will be used for Meta 6. For example \"SKU\"."
+msgstr ""
+
+#: admin/options-init.php:577
+msgid "The Name that will be used for Meta 7. For example \"SKU\"."
+msgstr ""
+
+#: admin/options-init.php:591
+msgid "The Name that will be used for Meta 8. For example \"SKU\"."
+msgstr ""
+
+#: admin/options-init.php:605
+msgid "The Name that will be used for Meta 9. For example \"SKU\"."
+msgstr ""
+
+#: admin/options-init.php:642 admin/options-init.php:662
+#: admin/options-init.php:682 admin/options-init.php:702
+#: admin/options-init.php:722 admin/options-init.php:742
+#: admin/options-init.php:762 admin/options-init.php:782
+#: admin/options-init.php:802 admin/options-init.php:822
+msgid ""
+"The Name that will be used for Taxonomy 1. For example \"Product "
+"Categories\"."
+msgstr ""
+"Der Name, der für Taxonomie 1 verwendet wird. Zum Beispiel "
+"\"Produktkategorien\"."
+
+#: admin/options-init.php:211
+msgid "This will display odd rows for all attribute groups."
+msgstr "Dadurch werden ungerade Zeilen für alle Attributgruppen angezeigt."
+
+#: public/templates/woocommerce-my-comparison.php:17
+#: public/templates/woocommerce-my-comparisons.php:17
+msgid "This wishlist is set to private."
+msgstr "Diese Wunschliste ist auf privat gesetzt."
+
+#: admin/options-init.php:82 admin/options-init.php:976
+#: admin/options-init.php:1402
+#: public/class-woocommerce-better-compare-public.php:1303
+msgid "Title"
+msgstr "Titel"
+
+#: admin/options-init.php:168
+msgid "To get auto updates please "
+msgstr "Um automatische Updates zu erhalten, bitte"
+
+#: admin/options-init.php:352
+msgid "Top"
+msgstr "oben"
+
+#: admin/options-init.php:126
+#: public/class-woocommerce-better-compare-public.php:1305
+msgid "Variations"
+msgstr "Variationen"
+
+#: public/class-woocommerce-better-compare-my-lists.php:186
+#: public/templates/woocommerce-my-comparisons-single.php:19
+msgid "View"
+msgstr "Aussicht"
+
+#: admin/options-init.php:88
+#: public/class-woocommerce-better-compare-public.php:1312
+msgid "Weight"
+msgstr "Gewicht"
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr "weLaunch"
+
+#: admin/options-init.php:204
+msgid ""
+"When you drag an attribute group into enabled, it automatically gets all "
+"attributes."
+msgstr ""
+"Wenn Sie eine Attributgruppe in aktiviert ziehen, erhält sie automatisch "
+"alle Attribute."
+
+#: admin/options-init.php:1632
+msgid "Which product categories should be excluded."
+msgstr "Welche Produktkategorien sollen ausgeschlossen werden."
+
+#: admin/options-init.php:1620
+msgid ""
+"With the below settings you can exclude products / categories so that the "
+"price and add to cart will be shown."
+msgstr ""
+"Mit den folgenden Einstellungen können Sie Produkte / Kategorien "
+"ausschließen, damit der Preis angezeigt und in den Warenkorb gelegt wird."
+
+#. Name of the plugin
+#: admin/options-init.php:20
+msgid "WooCommerce Better Compare"
+msgstr "WooCommerce besser vergleichen"
+
+#: woocommerce-better-compare.php:87
+msgid ""
+"WooCommerce Better Compare requires the WooCommerce & free weLaunch "
+"Framework plugin. Please install or activate them: https://www.welaunch."
+"io/updates/welaunch-framework.zip"
+msgstr ""
+"WooCommerce Better Compare erfordert das WooCommerce & kostenloses weLaunch "
+"Framework-Plugin. Bitte installieren oder aktivieren Sie diese: https://www."
+"welaunch.io/updates/welaunch-framework.zip"
+
+#: admin/options-init.php:22
+msgid "WooCommerce Compare Products"
+msgstr ""
+
+#: admin/options-init.php:363 admin/options-init.php:449
+msgid ""
+"You can use e.g. full, large, woocommerce_thumbnail, woocommerce_single, "
+"shop_single, shop_catalog..."
+msgstr ""
+"Sie können zB Full, Large, woocommerce_thumbnail, woocommerce_single, "
+"shop_single, shop_catalog ... verwenden."
+
+#: admin/options-init.php:197
+msgid ""
+"You need our <a href=\"https://welaunch.io/plugins/woocommerce-group-"
+"attributes/\" target=\"_blank\">Group Attributes Plugin</a>."
+msgstr ""
+"Sie benötigen unser <a href=\"https://welaunch.io/plugins/woocommerce-group-"
+"attributes/\" target=\"_blank\">Plugin für Gruppenattribute</a> ."
+
+#: public/templates/woocommerce-my-comparisons-single.php:8
+msgid "You need to set a compare page in my comparison settings."
+msgstr ""
+
+#: admin/options-init.php:500 admin/options-init.php:514
+#: admin/options-init.php:528 admin/options-init.php:542
+#: admin/options-init.php:556 admin/options-init.php:570
+#: admin/options-init.php:584 admin/options-init.php:598
+#: admin/options-init.php:612 admin/options-init.php:626
+msgid ""
+"You need to specify the custom meta field name here. For example \"_sku\"."
+msgstr ""
+"Sie müssen hier den benutzerdefinierten Metafeldnamen angeben. Zum Beispiel "
+"\"_sku\"."
+
+#: admin/options-init.php:649 admin/options-init.php:669
+#: admin/options-init.php:689 admin/options-init.php:709
+#: admin/options-init.php:729 admin/options-init.php:749
+#: admin/options-init.php:769 admin/options-init.php:789
+#: admin/options-init.php:809 admin/options-init.php:829
+msgid ""
+"You need to specify the custom taxonmy field name here. For example "
+"\"product_cat\"."
+msgstr ""
+"Sie müssen hier den Namen des benutzerdefinierten Taxony-Feldes angeben. Zum "
+"Beispiel  \"Produkt_Kat \"."
+
+#: public/class-woocommerce-better-compare-my-comparisons.php:175
+msgid "Your Comparisons"
+msgstr "Ihre Vergleiche"
